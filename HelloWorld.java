@@ -38,5 +38,6 @@ public class HelloWorld {
     System.out.println("Hello, Devops");
     System.out.println("Hello, python");
     System.out.println("Hello, life");
+    System.out.println("Hello, world");
   }
 }
